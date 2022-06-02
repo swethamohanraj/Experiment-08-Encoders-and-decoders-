@@ -116,7 +116,7 @@ endmodule
 ![DE exp-08entime](https://user-images.githubusercontent.com/94228215/171608377-8d80a8c9-cdbd-44d5-97f2-e1f67ae3f1f8.png)
 
 ### TRUTH TABLE:
-![encodertt (1)](https://user-images.githubusercontent.com/94228215/171608512-f69747e7-9c1e-4bb4-90d9-1e4890937cc8.png)
+![encoder truth](https://user-images.githubusercontent.com/94228215/171670969-5b094b82-5e44-4f51-80be-fa680161455f.png)
 
 
 
